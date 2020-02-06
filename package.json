@@ -1,7 +1,6 @@
 {
   "name": "ecomm",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
@@ -15,5 +14,15 @@
     "express-validator": "^6.2.0",
     "multer": "^1.4.2",
     "nodemon": "^1.19.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travis-Russell-1/ecomm-tr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Travis-Russell-1/ecomm-tr/issues"
+  },
+  "homepage": "https://github.com/Travis-Russell-1/ecomm-tr#readme",
+  "description": ""
 }
